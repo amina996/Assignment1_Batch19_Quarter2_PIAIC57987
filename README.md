@@ -1,2 +1,7 @@
-# Assignment1_Batch19_Quarter2_PIAIC57987
+# Name: Amina Khan
+# Assignment 1
+# Batch 19
+# Quarter 2
+# Roll no : PIAIC57987
+
 implantation of 50 numpy methods or attribute codes in jupyter notebook
