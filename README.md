@@ -1,4 +1,4 @@
-# implantation of 50 numpy methods or attribute codes in jupyter notebook
+# Implantation of 50 numpy methods or attribute codes in jupyter notebook
 
 # Name: Amina Khan
 # Assignment 1
